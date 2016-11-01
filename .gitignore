@@ -32,3 +32,18 @@ xcuserdata/
 # Pods - for those of you who use CocoaPods
 Pods
 Podfile.lock
+
+
+## Obj-C/Swift specific
+*.hmap
+*.ipa
+
+## Playgrounds
+timeline.xctimeline
+playground.xcworkspace
+
+# Swift Package Manager
+.build/
+
+# Carthage
+Carthage/Build
